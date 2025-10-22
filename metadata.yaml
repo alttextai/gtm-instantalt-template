@@ -15,5 +15,5 @@
 homepage: "https://alttext.ai"
 documentation: "https://alttext.ai/docs/integrations/html/"
 versions:
-  - sha: junk-commit-hash
-    changeNotes: Initial version
+  - sha: 38144c95b475f33ba79b8b538aad5a98e6552160
+    changeNotes: Initial version 1.0
