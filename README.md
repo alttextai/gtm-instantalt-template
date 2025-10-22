@@ -1,6 +1,18 @@
-# Google Tagmanager template for InstantAlt
+# Google Tagmanager template for AltText.ai InstantAlt
+Automatically adds alt text to your website images. Just set up your site and
+configure the Tagmanager tag, and leave the rest to us.
 
-# Community Templates
-The example-community-template project is an example of a Google Tag Manager [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109) repository that can be used as a template to generate new community template repositories.
+## Requirements
+* An account on [AltText.ai](https://alttext.ai)
+* Your website added to the InstantAlt sites under: Account: InstantAlt sites
 
-To submit your own template, see the [detailed instructions on how to submit templates to the Community Template Gallery](https://developers.google.com/tag-manager/templates/gallery).
+## Installation
+
+* Install the GTM template to your tagmanager container.
+* From your AltText.ai InstantAlt page, copy the "Site Key" for the website you want to set up.
+* Paste this site key value in the tagmanager template setup form.
+* Create a new tagmanager tag using this template, and select it to fire on all pages of your site.
+
+## How It Works
+
+* See our [InstantAlt Documentation](https://alttext.ai/docs/integrations/html/) for details on how InstantAlt works and how to get started!
